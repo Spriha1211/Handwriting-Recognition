@@ -5,6 +5,7 @@ This is my project,I made during internship at 'Eckovation'. I have build a neur
 Teach a Neural Network to Read Handwriting
 
 Abstract:
+
 HANDWRITTEN digit recognition is the ability of a computer system to recognize the handwritten inputs like digits, characters etc. from a wide variety of sources like emails, papers, images, letters etc. This has been a topic of research for decades. There are many applications for handwriting recognition are available this day. There are many techniques that have been developed to recognize the handwriting
 In this internship, I have made a neural network that will read and recognise the characters based on MNIST character dataset. I have used one of the widely used algorithms, SVM (Support Vector Machine).
 
@@ -14,6 +15,7 @@ Advantages of using SVM:
 3.	Robust to noises.
 4.	Easier to implement, personally I feel it is easier for me to implement SVM classifier.
 5.	The advantage of SVM is that once a boundary is established, most of the training data is redundant. All it needs is a core set of points which can help identify and set the boundary. 
+
 Implementation
 1.	The four MNIST data file are already downloaded and stored into a folder named dataset, these four files are divided into training set and test set. Each training and test set consist of images and labels.
 2.	Unzip the file
