@@ -18,11 +18,13 @@ Advantages of using SVM:
 
 Implementation
 1.	The four MNIST data file are already downloaded and stored into a folder named dataset, these four files are divided into training set and test set. Each training and test set consist of images and labels.
-2.	Unzip the file
-3.	Navigate to: Neural Network// SVM and run the following python command >>python svm.py
-4.	Once the execution begins, the program loads the MNIST data which includes both training and testing data. It the prepares the classifier and also plots a confusion matrix.
-5.	Apart from the confusion matrix it also tells us about predicted labels for test images and accuracy of classifier on test images.
-6.	In the end, it shows the Test Images with Original and Predicted Labels.
+ You need to download train-images.idx3-ubyte, because it is a large file and cannot be uploaded.
+ Use the link below to download it, extract it and then place it into the SVM/MNIST_Dataset_Loader/dataset.
+http://yann.lecun.com/exdb/mnist/
+2.	Navigate to: Neural Network// SVM and run the following python command >>python svm.py
+3.	Once the execution begins, the program loads the MNIST data which includes both training and testing data. It the prepares the classifier and also plots a confusion matrix.
+4.	Apart from the confusion matrix it also tells us about predicted labels for test images and accuracy of classifier on test images.
+5.	In the end, it shows the Test Images with Original and Predicted Labels.
 
 Attached Screen Shots: 
  
