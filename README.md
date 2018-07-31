@@ -3,8 +3,8 @@ This is my project,I made during internship at 'Eckovation'. I have build a neur
 
 ---------------------------------------------------------------------------------------------------------------------------------------
 Teach a Neural Network to Read Handwriting
-(Spriha Srivastava)
-Abstract
+
+Abstract:
 HANDWRITTEN digit recognition is the ability of a computer system to recognize the handwritten inputs like digits, characters etc. from a wide variety of sources like emails, papers, images, letters etc. This has been a topic of research for decades. There are many applications for handwriting recognition are available this day. There are many techniques that have been developed to recognize the handwriting
 In this internship, I have made a neural network that will read and recognise the characters based on MNIST character dataset. I have used one of the widely used algorithms, SVM (Support Vector Machine).
 
